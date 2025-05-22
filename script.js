@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "<html>",
     "  <body>",
     "    <h1>Sobre mim</h1>",
-    "    <p>Me chamo Felipe de Menezes, sou desenvolvedor e apaixonado por tecnologia.</p>",
+    "    <p>Me chamo Felipe Dias de Menezes, sou desenvolvedor e apaixonado por tecnologia.</p>",
     "    <p>Desenvolvedor Full Stack com foco em soluções eficientes e escaláveis. Experiência em projetos com Python, JavaScript, React, Node.js e bancos de dados relacionais e NoSQL. Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de software com impacto real.</p>",
     "  </body>",
     "</html>"
